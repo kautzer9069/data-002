@@ -1,0 +1,9 @@
+version: 1.5.0
+files:
+  - url: Another-Redis-Desktop-Manager.1.5.0.AppImage
+    sha512: IpnbpKT2bHSQl13iHl2I9yV0YsMp/erSA0UhQWMo8oWNrg0mSCNADBDJld5qGFSPqZj9fc1KdeLigunyIwpuZA==
+    size: 80017717
+    blockMapSize: 84297
+path: Another-Redis-Desktop-Manager.1.5.0.AppImage
+sha512: IpnbpKT2bHSQl13iHl2I9yV0YsMp/erSA0UhQWMo8oWNrg0mSCNADBDJld5qGFSPqZj9fc1KdeLigunyIwpuZA==
+releaseDate: '2021-11-26T04:27:24.508Z'
