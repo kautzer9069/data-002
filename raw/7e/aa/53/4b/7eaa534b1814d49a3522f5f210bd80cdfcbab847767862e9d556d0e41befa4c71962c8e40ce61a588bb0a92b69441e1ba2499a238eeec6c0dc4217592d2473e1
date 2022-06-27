@@ -1,0 +1,8 @@
+version: 1.2.5
+files:
+  - url: Another.Redis.Desktop.Manager.1.2.5.dmg
+    sha512: JfsFdtPQJKczsimdeKoF73YLqeGVJMAXpdUksHazJWN/gHhE2niRLMSuMqh+6mlJKi/iv2Rn45p6xZkAvKklNA==
+    size: 55612733
+path: Another.Redis.Desktop.Manager.1.2.5.dmg
+sha512: JfsFdtPQJKczsimdeKoF73YLqeGVJMAXpdUksHazJWN/gHhE2niRLMSuMqh+6mlJKi/iv2Rn45p6xZkAvKklNA==
+releaseDate: '2019-08-09T15:57:48.448Z'
