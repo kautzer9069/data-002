@@ -1,0 +1,8 @@
+version: 1.3.3
+files:
+  - url: Another.Redis.Desktop.Manager.1.3.3.exe
+    sha512: LVtSqA/ILfXRXqUof4UuVfXxoutS76u01z4EF5F6iPj9o5jHhXVU1dF3sqZUjAtdCauNZTWzTl0yN33Situqgw==
+    size: 44653151
+path: Another.Redis.Desktop.Manager.1.3.3.exe
+sha512: LVtSqA/ILfXRXqUof4UuVfXxoutS76u01z4EF5F6iPj9o5jHhXVU1dF3sqZUjAtdCauNZTWzTl0yN33Situqgw==
+releaseDate: '2020-04-09T09:15:48.811Z'
