@@ -1,0 +1,8 @@
+version: 1.3.7
+files:
+  - url: Another-Redis-Desktop-Manager.1.3.7.exe
+    sha512: W8AjJvoRqKxFnUceBRo37npwpqDioPzxMp07k51qB+kDhpVjrvhea6EDeocBtOaUV+AHwb+L5E6Xwu7ffHasgg==
+    size: 50820730
+path: Another-Redis-Desktop-Manager.1.3.7.exe
+sha512: W8AjJvoRqKxFnUceBRo37npwpqDioPzxMp07k51qB+kDhpVjrvhea6EDeocBtOaUV+AHwb+L5E6Xwu7ffHasgg==
+releaseDate: '2020-07-05T04:53:49.414Z'
