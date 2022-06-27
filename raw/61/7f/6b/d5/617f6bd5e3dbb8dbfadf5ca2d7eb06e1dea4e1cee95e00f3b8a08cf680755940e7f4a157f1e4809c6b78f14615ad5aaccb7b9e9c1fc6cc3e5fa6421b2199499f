@@ -1,0 +1,9 @@
+version: 1.3.9
+files:
+  - url: Another-Redis-Desktop-Manager.1.3.9.AppImage
+    sha512: EFSXQaema62k1qbMpWySN6Dl2FfvAKB8aS8EmzsWiVwbKXOL1z8LC8j2A6jCd4edXrMysIOHnlH7jaAGqpMxug==
+    size: 74194358
+    blockMapSize: 77258
+path: Another-Redis-Desktop-Manager.1.3.9.AppImage
+sha512: EFSXQaema62k1qbMpWySN6Dl2FfvAKB8aS8EmzsWiVwbKXOL1z8LC8j2A6jCd4edXrMysIOHnlH7jaAGqpMxug==
+releaseDate: '2020-11-06T04:07:09.781Z'
