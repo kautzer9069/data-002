@@ -1,0 +1,8 @@
+version: 1.3.6
+files:
+  - url: Another-Redis-Desktop-Manager.1.3.6.exe
+    sha512: 4md0RiIbxjsxSp1tFZjlGpdDe2XqaupTM0Zi/7yssbUJagSiKnB7vaqdFGKhCf/0sCKKZCaOB+zmz7P3s9xU/A==
+    size: 44281639
+path: Another-Redis-Desktop-Manager.1.3.6.exe
+sha512: 4md0RiIbxjsxSp1tFZjlGpdDe2XqaupTM0Zi/7yssbUJagSiKnB7vaqdFGKhCf/0sCKKZCaOB+zmz7P3s9xU/A==
+releaseDate: '2020-06-02T02:17:13.424Z'
