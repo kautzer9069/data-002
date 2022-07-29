@@ -1,0 +1,9 @@
+version: 1.1.7
+files:
+  - url: Another.Redis.Dsektop.Manager.1.1.7.AppImage
+    sha512: CBt8912hlfoETKEp0DtITipt58mcLngW0JpJzAElJQS4ks4PFDg8pdL2T9GfuYkRl2VyoT0zMqOfThf4ynUK8w==
+    size: 78075796
+    blockMapSize: 82136
+path: Another.Redis.Dsektop.Manager.1.1.7.AppImage
+sha512: CBt8912hlfoETKEp0DtITipt58mcLngW0JpJzAElJQS4ks4PFDg8pdL2T9GfuYkRl2VyoT0zMqOfThf4ynUK8w==
+releaseDate: '2019-05-09T08:36:16.422Z'
